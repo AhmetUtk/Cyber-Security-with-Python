@@ -1,0 +1,1 @@
+Merhabalar bu kod ile amaçladığım kod çalıştırıldığında klavyeden tuşlara basıldığında kameradan görüntü kaydedip girilen mail adresine kaydedilen görüntüleri almasıydı. Proje başarılı oldu ancak kodu kullanabilmeniz için gerekli email adreslerini kendinize göre düzenleyip Google den alınan mail anahtarını alıp ilgili yerlere girmeniz yeterli olacaktır.
